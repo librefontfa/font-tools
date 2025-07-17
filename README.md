@@ -13,7 +13,7 @@
 
 
 ## ابزار های جانبی فونت
-1. [پرشین ری شیپر]((https://libre.font-store.ir/persian-reshaper/)
+1. [پرشین ری شیپر](https://libre.font-store.ir/persian-reshaper/)
 
 
 ## منابع بزرگ فونت
