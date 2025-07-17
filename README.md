@@ -9,16 +9,20 @@
 
 
 ## ابزار های تست فونت
-1. [Font Gauntlet](https://fontgauntlet.com/)
+- [Font Gauntlet](https://fontgauntlet.com/)
 
 
 ## ابزار های جانبی فونت
-1. [پرشین ری شیپر](https://libre.font-store.ir/persian-reshaper/)
+- [پرشین ری شیپر](https://libre.font-store.ir/persian-reshaper/)
+- [مشاهده unicode ها - r12a](https://r12a.github.io/uniview/index.html)
+- [تبدیل یونیکد ها - r12a](https://r12a.github.io/app-conversion/)
+
 
 
 ## منابع بزرگ فونت
-1. [کتابخانه طراحی تایپ‌فیس و حروف - صالح سوزنچی](https://drive.google.com/drive/folders/1jWrkeOOFxsIc4iAx44ASrk4sMfkzEhlB)
+- [کتابخانه طراحی تایپ‌فیس و حروف - صالح سوزنچی](https://drive.google.com/drive/folders/1jWrkeOOFxsIc4iAx44ASrk4sMfkzEhlB)
+- [مجموعه ابزار r12a](https://r12a.github.io/)
 
 
 ## منابع بزرگ زبان فارسی
-1. [آرشیو زبان فارسی](https://drive.google.com/drive/folders/1I_suHrrwEuO09JtPIGBh-y0bBh2Hjbgs)
+- [آرشیو زبان فارسی](https://drive.google.com/drive/folders/1I_suHrrwEuO09JtPIGBh-y0bBh2Hjbgs)
