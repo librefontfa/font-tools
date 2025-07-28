@@ -12,7 +12,12 @@
 
 
 ## ابزار های ساخت فونت
+- [Font Forge](https://fontforge.org)
+- [Bird font](https://birdfont.org/)
+- [FontStruct](https://fontstruct.com/)
+- [TruFont](https://trufont.github.io/)
 - [Bezy font editor](https://github.com/eliheuer/bezy)
+- [Gluphr](https://www.glyphrstudio.com/)
 
 
 ## مقالات مربوط به طراحی فونت
