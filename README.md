@@ -12,6 +12,7 @@
 
 
 ## ابزار های ساخت فونت
+نرم افزار های ساخت فونت، باید بررسی شوند، و مسائل مختلف آن مدنظر باشند. بعضی از نرم افزار های معرفی شده، حتی از زبان فارسی پشتیبانی نمی‌کنند.
 - [Font Forge](https://fontforge.org)
 - [Bird font](https://birdfont.org/)
 - [FontStruct](https://fontstruct.com/)
